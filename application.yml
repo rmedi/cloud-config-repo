@@ -1,3 +1,6 @@
 client:
   pseudo:
     property: Property value from Git rmedin-application.yml, resfresh
+branch:
+  pseudo:
+    property: Add propiedad nueva al branch1
