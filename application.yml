@@ -1,4 +1,4 @@
-client:
+master:
   pseudo:
     property: Property value from Git rmedin-application.yml
 branch:
